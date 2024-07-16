@@ -1,0 +1,43 @@
+.LinkColor{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.CopyRight{
+    color:rgb(245, 245, 245);
+    float: left;
+    font-size: small;
+}
+.Copyleft{
+    color: rgb(245, 245, 245);
+    float: right;
+    font-size: small;
+}
+.FooterTagIcon{
+    padding-top: 2%;
+    color: rgb(255, 255, 255);
+
+}
+.Footer{
+    margin-top: auto;
+}
+
+.Footer {
+    background-color: #E94160;
+    padding: 16px 0;
+  }
+  
+  .LinkColor {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .FooterTagIcon .MuiIconButton-root {
+    color: white;
+  }
+  
+  .CopyRight, .Copyleft {
+    color: white;
+    text-align: center;
+    margin-top: 16px;
+  }
